@@ -117,6 +117,7 @@ var cnames_active = {
   "awk": "42ua.github.io/awk",
   "awoo": "awoojs.github.io/website",
   "azdanov": "azdanov.github.io",
+  "bachors": "bachors.github.io", // noCF? (don´t add this in a new PR)
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
   "badger": "just-glue-it.github.io/badger", // noCF? (don´t add this in a new PR)
